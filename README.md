@@ -10,8 +10,8 @@ The package only needs pacakges available in the `cvmfs` and the on GitHub publi
 To install the package then you need first to check out the repository with all its submodules (in the example the access via ssh is shown):
 
 ```
-git clone ssh://git@git.e5.physik.tu-dortmund.de:10022/alex.birnkraut/CPTimeFit_BD2Dpi.git
-cd CPTimeFit_BD2Dpi
+git clone git@github.com:alexbirne/CPV_DTFit.git
+cd CPV_DTFit
 git submodule update --init --recursive
 ```
 
