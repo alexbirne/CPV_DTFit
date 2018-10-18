@@ -1,0 +1,47 @@
+S_f = -0.0280000 L(-1 - 1)
+S_fbar =  0.03500 L(-1 - 1)
+C_f =  1.0 C L(-5 - 5)
+cosh_f =  1.0000 C L(-5 - 5)
+cosh_fbar =  1.0000 C L(-5 - 5)
+sinh_f =  0.0 C L(-5 - 5)
+sinh_fbar =  0.0 C L(-5 - 5)
+
+tau =  1.520 L(1 - 2)
+deltaM =  0.5064 L(0 - 2)
+dgamma =  0.0000 C L(-INF - +INF)
+
+detection_asym =  0.0086 L(-1 - +1)
+production_asym =  -0.0124 L(-1 - +1)
+
+resolution_mean =  0.0000 C L(-INF - +INF)
+resolution_sigma =  0.05491 C L(-INF - +INF)
+
+p0 =  0.3737056 C L(-INF - +INF)
+p1 =  1.028621 C L(-INF - +INF)
+Deltap0 =  0.011819 C L(-0.1 - +0.1)
+Deltap1 =  0.043134 C L(-0.1 - +0.1)
+MeanEta =  0.347742 C L(-INF - +INF)
+tageff_asym_os =  0.0000 C L(-INF - +INF)
+tageff_os =  0.37000 L(0.01 - 0.99)
+
+p0SS =  0.4424049 C L(-INF - +INF)
+p1SS =  0.81302 C L(-INF - +INF)
+Deltap0SS =  0.00062332 C L(-INF - +INF)
+Deltap1SS =  0.0066248 C L(-INF - +INF)
+MeanEtaSS =  0.435 C L(-INF - +INF)
+tageff_asym_ss =  0.0000 C L(-INF - +INF)
+tageff_ss =  0.82000 L(0.01 - 0.99)
+
+mistag_mean_OS =  0.37 L(0.0 - 0.5)
+mistag_sigma_OS =  0.03000 L(0.001 - 0.2)
+
+mistag_mean_SS =  0.44000 L(0.0 - 0.5)
+mistag_sigma_SS =  0.01000 L(0.001 - 0.2)
+
+parCSpline1 =  0.1321 L(0 - 3)
+parCSpline1 =  0.2749 L(0 - 3)
+parCSpline2 =  0.4067 L(0 - 3)
+parCSpline3 =  0.6018 L(0 - 3)
+parCSpline4 =  0.7526 L(0 - 3)
+parCSpline5 =  0.8745 L(0 - 3)
+parCSpline6 =  1.0000 L(0 - 3)

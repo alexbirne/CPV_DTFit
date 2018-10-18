@@ -1,0 +1,2 @@
+mean_deltaM =  0.505 C L(-INF - +INF)
+sigma_deltaM =  0.0023 C L(-INF - +INF)

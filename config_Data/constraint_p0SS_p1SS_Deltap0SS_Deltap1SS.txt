@@ -1,0 +1,4 @@
+mean_Deltap0SS =  0.00062332 C L(-INF - +INF)
+mean_Deltap1SS =  0.0066248 C L(-INF - +INF)
+mean_p0SS =  0.4424049 C L(-INF - +INF)
+mean_p1SS =  0.81302 C L(-INF - +INF)

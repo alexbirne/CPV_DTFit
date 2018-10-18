@@ -1,0 +1,4 @@
+mean_Deltap0 =  0.011819 C L(-INF - +INF)
+mean_Deltap1 =  0.043134 C L(-INF - +INF)
+mean_p0 =  0.3737056 C L(-INF - +INF)
+mean_p1 =  1.028621 C L(-INF - +INF)

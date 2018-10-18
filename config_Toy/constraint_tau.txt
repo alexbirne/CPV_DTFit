@@ -1,0 +1,2 @@
+mean_tau =  1.518 C L(-INF - +INF)
+sigma_tau =  0.004 C L(-INF - +INF)

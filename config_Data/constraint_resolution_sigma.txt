@@ -1,0 +1,2 @@
+mean_resolution_sigma =  0.05491 C L(-INF - +INF) 
+sigma_resolution_sigma =  0.00038 C L(-INF - +INF) 

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="13">
+<SS_PionBDT_Calibration class_id="4" tracking_level="1" version="0" object_id="_0">
+	<TypicalCalibration class_id="6" tracking_level="0" version="0">
+		<Calibration class_id="7" tracking_level="0" version="0"></Calibration>
+		<numParams>2</numParams>
+		<coeffs class_id="8" tracking_level="0" version="0">
+			<n>2</n>
+			<vector_size>2</vector_size>
+			<vector_data>
+				<item>-9.09045563339998253e-02</item>
+				<item>-2.73158385759428510e-02</item>
+			</vector_data>
+			<softwrap>0</softwrap>
+		</coeffs>
+		<delta_coeffs>
+			<n>2</n>
+			<vector_size>2</vector_size>
+			<vector_data>
+				<item>3.40126163160450953e-02</item>
+				<item>3.21378787010235881e-02</item>
+			</vector_data>
+			<softwrap>0</softwrap>
+		</delta_coeffs>
+		<covariance class_id="9" tracking_level="0" version="0">
+			<n>2</n>
+			<m>2</m>
+			<matrix_numrows>2</matrix_numrows>
+			<matrix_numcols>2</matrix_numcols>
+			<matrix_numrows_store>2</matrix_numrows_store>
+			<matrix_data>
+				<item>3.50287455644951581e-03</item>
+				<item>2.41168593063989430e-04</item>
+				<item>2.41168593063989376e-04</item>
+				<item>4.25667058300263808e-03</item>
+			</matrix_data>
+			<_isSubmatrix>0</_isSubmatrix>
+			<softwrap>0</softwrap>
+		</covariance>
+		<delta_covariance>
+			<n>2</n>
+			<m>2</m>
+			<matrix_numrows>2</matrix_numrows>
+			<matrix_numcols>2</matrix_numcols>
+			<matrix_numrows_store>2</matrix_numrows_store>
+			<matrix_data>
+				<item>7.11348109156059987e-03</item>
+				<item>8.35333985401813051e-04</item>
+				<item>8.35333985401812943e-04</item>
+				<item>8.77317541194308145e-03</item>
+			</matrix_data>
+			<_isSubmatrix>0</_isSubmatrix>
+			<softwrap>0</softwrap>
+		</delta_covariance>
+		<cross_covariance>
+			<n>2</n>
+			<m>2</m>
+			<matrix_numrows>2</matrix_numrows>
+			<matrix_numcols>2</matrix_numcols>
+			<matrix_numrows_store>2</matrix_numrows_store>
+			<matrix_data>
+				<item>-1.42511341514303089e-04</item>
+				<item>-2.15562064081997664e-04</item>
+				<item>-2.15414304595118531e-04</item>
+				<item>-2.73813943525752675e-04</item>
+			</matrix_data>
+			<_isSubmatrix>0</_isSubmatrix>
+			<softwrap>0</softwrap>
+		</cross_covariance>
+	</TypicalCalibration>
+	<func class_id="3" tracking_level="1" version="0" object_id="_1">
+		<CalibrationFunction class_id="10" tracking_level="0" version="0"></CalibrationFunction>
+		<glm class_id="11" tracking_level="0" version="0">
+			<tx class_id="0" tracking_level="1" version="0" object_id="_2">
+				<poly_construct_degree>1</poly_construct_degree>
+				<GLMModel class_id="12" tracking_level="0" version="0"></GLMModel>
+				<degree>1</degree>
+				<basis>
+					<n>2</n>
+					<m>2</m>
+					<matrix_numrows>2</matrix_numrows>
+					<matrix_numcols>2</matrix_numcols>
+					<matrix_numrows_store>2</matrix_numrows_store>
+					<matrix_data>
+						<item>1.00000000000000000e+00</item>
+						<item>0.00000000000000000e+00</item>
+						<item>1.08949011163006348e+00</item>
+						<item>1.00000000000000000e+00</item>
+					</matrix_data>
+					<_isSubmatrix>0</_isSubmatrix>
+					<softwrap>0</softwrap>
+				</basis>
+			</tx>
+		</glm>
+		<length>2</length>
+		<L>2</L>
+	</func>
+</SS_PionBDT_Calibration>
+</boost_serialization>
+

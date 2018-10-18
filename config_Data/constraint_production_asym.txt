@@ -1,0 +1,2 @@
+mean_production_asym =  -0.0124 C L(-INF - +INF)
+sigma_production_asym =  0.008261872 C L(-INF - +INF)
