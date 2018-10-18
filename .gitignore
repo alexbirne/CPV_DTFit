@@ -1,0 +1,12 @@
+build/
+summary/
+
+summary.log
+*.pdf
+*.C
+*.png
+*.eps
+*.txt.new
+._*
+.DS_Store
+*.root

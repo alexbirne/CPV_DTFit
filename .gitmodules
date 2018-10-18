@@ -1,0 +1,3 @@
+[submodule "Espresso"]
+	path = Espresso
+	url = ssh://git@gitlab.cern.ch:7999/lhcb-ft/Espresso.git
