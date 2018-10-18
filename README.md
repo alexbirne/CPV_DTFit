@@ -15,6 +15,7 @@ cd CPV_DTFit
 git submodule update --init --recursive
 ```
 
+The last step might only work if one has access to the CERN gitlab (However the basic functionality should also be given without this library - to work out of the box the CMake List needs some work TODO).
 For the further installation it is recommended to create a build directory to store all cmake/make files which are created. Then the commands to build the package can be executed:
 
 ```
